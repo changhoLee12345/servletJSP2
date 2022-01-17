@@ -6,7 +6,9 @@
 	<artifactId>servletJSPII</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
+
 	<dependencies>
+	
 		<!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
@@ -44,9 +46,9 @@
 		</dependency>
 
 
-
-
 	</dependencies>
+
+
 	<build>
 		<resources>
 			<resource>
@@ -70,4 +72,5 @@
 			</plugin>
 		</plugins>
 	</build>
+
 </project>
